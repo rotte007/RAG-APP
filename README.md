@@ -33,9 +33,9 @@
       {"id": "doc2", "text": "Document text 2"}
     ]
     ```
-4 Index documents
-   ```sh
-   python indexer.py
+4. Index documents
+    ```sh
+    python indexer.py
 
 5. Start the backend API
     ```sh
@@ -46,13 +46,18 @@
     streamlit run front/app.py
 
 7. Start Ollama
-  -Install and run Ollama with your desired model (e.g., gemma3:1b).
+
+ - Install and run Ollama with your desired model (e.g., gemma3:1b).
+
 Usage
-Open the Streamlit UI in your browser.
-Ask a question; the app will retrieve relevant context and generate an answer using the LLM.
+
+- Open the Streamlit UI in your browser.
+- Ask a question; the app will retrieve relevant context and generate an answer using the LLM.
+
 Notes
-For production, consider using MongoDB's vector search or FAISS for efficient retrieval.
-Update the model and endpoints in generator.py as needed.
+
+- For production, consider using MongoDB's vector search or FAISS for efficient retrieval.
+- Update the model and endpoints in generator.py as needed.
     
 
 
