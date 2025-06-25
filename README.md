@@ -58,14 +58,3 @@ Notes
 
 - For production, consider using MongoDB's vector search or FAISS for efficient retrieval.
 - Update the model and endpoints in generator.py as needed.
-    
-
-
-
-
-
-
-
-
-
-
