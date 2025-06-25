@@ -1,0 +1,21 @@
+[
+    {
+        "id": "faq1",
+        "prompt": "**Q:** What is coffee? **A:** Coffee is a brewed beverage made from roasted coffee beans, which are the seeds of berries from the Coffea plant."
+    },
+    {
+        "id": "faq2",
+        "prompt": "**Q:** What are the main types of coffee beans? **A:** The two main types of coffee beans are Arabica and Robusta."
+    },
+    {
+        "id": "faq3",
+        "prompt": "**Q:** How much caffeine is in a cup of coffee? **A:** An average 8-ounce cup of coffee contains about 80-100 mg of caffeine."
+    },
+    {
+        "id": "faq4",
+        "prompt": "**Q:** What is espresso? **A:** Espresso is a concentrated form of coffee made by forcing hot water through finely-ground coffee beans."
+    },
+    {
+        "id": "faq5",
+        "prompt": "**Q:** How should coffee beans be stored? **A:** Coffee beans should be stored in an airtight container in a cool, dark place to preserve freshness."
+    }
