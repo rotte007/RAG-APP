@@ -1,4 +1,4 @@
-Simple RAG pipeline in Python using:
+## Simple RAG pipeline in Python using:
 
 
 Sentence‑Transformers for embeddings
