@@ -34,8 +34,8 @@
     ]
     ```
 4 Index documents
-    ```sh
-    python indexer.py
+   ```sh
+   python indexer.py
 
 5. Start the backend API
     ```sh
