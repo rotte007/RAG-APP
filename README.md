@@ -23,7 +23,7 @@
 
 2. Set up MongoDB
 
-  - Start a local MongoDB instance or use a cloud MongoDB.
+  - Start a local MongoDB instance or use a cloud MongoDB. (net start MongoDB)
   - Add your MongoDB URI to .env or directly in indexer.py and retriever.py. 
 
 3. Prepare your data. Place your documents in a JSON file (e.g., data/faqs.json) with format
