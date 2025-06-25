@@ -1,4 +1,4 @@
-def chunk_text(text: str, chunk_size: int = 500, overlap: int = 50) -> List[str]:
+def chunk_text(text: str, chunk_size: int = 500, overlap: int = 50) -> list[str]:
     """Split text into chunks of ~chunk_size tokens (or characters) with overlap."""
     tokens = text.split()
     chunks = []
